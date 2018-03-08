@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/v1/Door.h"
+            timestampString = "542197125.174208"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ADoor::~ADoor()"
+                  moduleName = "UE4Editor-v1-3032.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.15/Engine/Source/../../../../../Archie/GitHub/SpaceCowboys/v1/Source/v1/Door.h"
+                  timestampString = "542234242.007381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ADoor::~ADoor()"
+                  moduleName = "UE4Editor-v1-3032.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.15/Engine/Source/../../../../../Archie/GitHub/SpaceCowboys/v1/Source/v1/Door.h"
+                  timestampString = "542234242.007888"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "9">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/v1/Door.h"
+            timestampString = "542197137.918303"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ADoor::~ADoor()"
+                  moduleName = "UE4Editor-v1-3032.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.15/Engine/Source/../../../../../Archie/GitHub/SpaceCowboys/v1/Source/v1/Door.h"
+                  timestampString = "542234242.023333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ADoor::~ADoor()"
+                  moduleName = "UE4Editor-v1-3032.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.15/Engine/Source/../../../../../Archie/GitHub/SpaceCowboys/v1/Source/v1/Door.h"
+                  timestampString = "542234242.0235"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "9">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/v1/Door.h"
+            timestampString = "542197948.173043"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ADoor::~ADoor()"
+                  moduleName = "UE4Editor-v1-3032.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.15/Engine/Source/../../../../../Archie/GitHub/SpaceCowboys/v1/Source/v1/Door.h"
+                  timestampString = "542197948.175891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ADoor::~ADoor()"
+                  moduleName = "UE4Editor-v1-3032.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shared/UnrealEngine/4.15/Engine/Source/../../../../../Archie/GitHub/SpaceCowboys/v1/Source/v1/Door.h"
+                  timestampString = "542197948.1760679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "9">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
